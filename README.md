@@ -170,3 +170,4 @@ Congratulations! You've practiced the basics of plotting, labeling, and customiz
 ## Summary
 
 This lab focused on ensuring that you understand the basic plotting techniques in Matplotlib using plotting objects and functions to draw single plots, as well as figures with multiple subplots. You also practiced customizing the plots with labels, titles and axes definitions. 
+# git_practice
